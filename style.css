@@ -48,22 +48,22 @@ header {
     color: #421e74;
 }
 
-a:link {
+a,h1:link {
     color: #421e74 !important;
     text-decoration: none !important;
 }
 
-a:hover {
+a,h1:hover {
     color: #421e74 !important;
     text-decoration: none !important;
 }
 
-a:active {
+a,h1:active {
     color: #421e74 !important;
     text-decoration: none !important;
 }
 
-a:visited {
+a,h1:visited {
     color: #421e74 !important;
     text-decoration: none !important;
 }
