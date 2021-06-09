@@ -48,7 +48,19 @@ header {
     color: #421e74;
 }
 
-a {
+a:link {
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+a:active {
+    text-decoration: none !important;
+}
+
+a:visited {
     text-decoration: none !important;
 }
 
@@ -625,6 +637,7 @@ a {
         z-index: -1;
         filter: blur(10vw);
     }
+
     .bg-image#cels {
         background-image: url("assets/CELI.png");
 
@@ -639,6 +652,7 @@ a {
         z-index: -1;
         filter: blur(10vw);
     }
+
     .bg-image#baznica {
         background-image: url("assets/BAZNICA.png");
 
@@ -653,6 +667,7 @@ a {
         z-index: -1;
         filter: blur(10vw);
     }
+
     .bg-image#satiksme {
         background-image: url("assets/SATIKSME.png");
 
@@ -667,6 +682,7 @@ a {
         z-index: -1;
         filter: blur(10vw);
     }
+
     .bg-image#piemineklis {
         background-image: url("assets/Piemineklis.png");
 
@@ -681,6 +697,7 @@ a {
         z-index: -1;
         filter: blur(10vw);
     }
+
     .bg-image#galamerkis {
         background-image: url("assets/GALAMĒRĶIS.png");
 
@@ -702,12 +719,12 @@ a {
         border: none;
     }
 
-    th.localization-row{
-        padding-top:5vh;
+    th.localization-row {
+        padding-top: 5vh;
         padding-right: 10vw;
         text-align: right;
     }
- 
+
     .letter-row {
         background-image: url("assets/vestulesTexture.png");
         width: 100vw;
@@ -725,7 +742,7 @@ a {
         font-size: 8vw;
         font-weight: lighter;
         text-align: center;
-        background: rgba(130,130,130, 0.2);
+        background: rgba(130, 130, 130, 0.2);
         margin-bottom: 10vh;
     }
 
@@ -772,5 +789,5 @@ a {
             opacity: 0.9;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.72);
         }
-    }  
+    }
 }
