@@ -48,6 +48,26 @@ header {
     color: #421e74;
 }
 
+a:link {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+a:active {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+a:visited {
+    color: white !important;
+    text-decoration: none !important;
+}
+
 .container#miegs {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
     background-image: url("assets/MIEGS.png");
