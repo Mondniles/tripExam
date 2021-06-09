@@ -70,22 +70,22 @@ header {
 }
 
 a:link {
-    color: white !important;
+    color: white ;
     text-decoration: none !important;
 }
 
 a:hover {
-    color: white !important;
+    color: white;
     text-decoration: none !important;
 }
 
 a:active {
-    color: white !important;
+    color: white;
     text-decoration: none !important;
 }
 
 a:visited {
-    color: white !important;
+    color: white;
     text-decoration: none !important;
 }
 
