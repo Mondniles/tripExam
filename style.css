@@ -66,7 +66,7 @@ header {
 
 .container#cels {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: url("/tripExam/assets/CEĻŠGraph.png");
+    background-image: url("assets/CEĻŠGraph.png");
 
     /* Set a specific height */
     height: 100vh;
@@ -82,7 +82,7 @@ header {
 
 .container#JaunaTeika {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: url("/trip/assets/JAUNATEIKA.png");
+    background-image: url("assets/JAUNATEIKA.png");
 
     /* Set a specific height */
     height: 100vh;
@@ -98,7 +98,7 @@ header {
 
 .container#Baznica {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: url("/trip/assets/BAZNICA.png");
+    background-image: url("assets/BAZNICA.png");
 
     /* Set a specific height */
     height: 100vh;
@@ -114,7 +114,7 @@ header {
 
 .container#Satiksme {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: url("/trip/assets/SATIKSME.png");
+    background-image: url("assets/SATIKSME.png");
 
     /* Set a specific height */
     height: 100vh;
@@ -130,7 +130,7 @@ header {
 
 .container#Piemineklis {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: url("/trip/assets/Piemineklis.png");
+    background-image: url("assets/Piemineklis.png");
 
     /* Set a specific height */
     height: 100vh;
@@ -146,7 +146,7 @@ header {
 
 .container#Galamerkis {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-    background-image: url("/trip/assets/GALAMĒRĶIS.png");
+    background-image: url("assets/GALAMĒRĶIS.png");
 
     /* Set a specific height */
     height: 100vh;
@@ -593,7 +593,7 @@ header {
     }
 
     .bg-image#miegs {
-        background-image: url("/trip/assets/MIEGS.png");
+        background-image: url("assets/MIEGS.png");
 
         /* Set a specific height */
         height: 40vh;
@@ -608,7 +608,7 @@ header {
     }
 
     .bg-image#jaunaTeika {
-        background-image: url("/trip/assets/JAUNATEIKA.png");
+        background-image: url("assets/JAUNATEIKA.png");
 
         /* Set a specific height */
         height: 40vh;
@@ -622,7 +622,7 @@ header {
         filter: blur(10vw);
     }
     .bg-image#cels {
-        background-image: url("/trip/assets/CELI.png");
+        background-image: url("assets/CELI.png");
 
         /* Set a specific height */
         height: 40vh;
@@ -636,7 +636,7 @@ header {
         filter: blur(10vw);
     }
     .bg-image#baznica {
-        background-image: url("/trip/assets/BAZNICA.png");
+        background-image: url("assets/BAZNICA.png");
 
         /* Set a specific height */
         height: 40vh;
@@ -650,7 +650,7 @@ header {
         filter: blur(10vw);
     }
     .bg-image#satiksme {
-        background-image: url("/trip/assets/SATIKSME.png");
+        background-image: url("assets/SATIKSME.png");
 
         /* Set a specific height */
         height: 40vh;
@@ -664,7 +664,7 @@ header {
         filter: blur(10vw);
     }
     .bg-image#piemineklis {
-        background-image: url("/trip/assets/Piemineklis.png");
+        background-image: url("assets/Piemineklis.png");
 
         /* Set a specific height */
         height: 40vh;
@@ -678,7 +678,7 @@ header {
         filter: blur(10vw);
     }
     .bg-image#galamerkis {
-        background-image: url("/trip/assets/GALAMĒRĶIS.png");
+        background-image: url("assets/GALAMĒRĶIS.png");
 
         /* Set a specific height */
         height: 40vh;
@@ -705,7 +705,7 @@ header {
     }
  
     .letter-row {
-        background-image: url("/trip/assets/vestulesTexture.png");
+        background-image: url("assets/vestulesTexture.png");
         width: 100vw;
     }
 
