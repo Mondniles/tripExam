@@ -48,6 +48,27 @@ header {
     color: #421e74;
 }
 
+#cels h1 {
+    color: #421e74;
+}
+
+#satiksme h1 {
+    color: #421e74;
+}
+
+#baznica h1 {
+    color: #421e74;
+}
+
+#piemineklis h1 {
+    color: #421e74;
+}
+
+#galamerkis h1 {
+    color: #421e74;
+
+}
+
 a:link {
     color: white !important;
     text-decoration: none !important;
@@ -68,7 +89,7 @@ a:visited {
     text-decoration: none !important;
 }
 
-h1:visited{
+h1:visited {
     color: #421e74;
 
 }
