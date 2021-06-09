@@ -830,49 +830,4 @@ h1:visited {
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.72);
         }
     }
-
-    @keyframes background-change {
-        0% {
-            background-image: url("assets/MIEGS.png");
-
-        /* Set a specific height */
-        height: 40vh;
-        width: 100vw;
-        /* Position and center the image to scale nicely on all screens */
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        position: absolute;
-        z-index: -1;
-        filter: blur(10vw);
-        }
-
-        50% {background-image: url("assets/MIEGS.png");
-
-            /* Set a specific height */
-            height: 40vh;
-            width: 100vw;
-            /* Position and center the image to scale nicely on all screens */
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-            position: absolute;
-            z-index: -1;
-            filter: blur(10vw), grayscale(100%);
-        } 
-        100% {
-            background-image: url("assets/MIEGS.png");
-
-        /* Set a specific height */
-        height: 40vh;
-        width: 100vw;
-        /* Position and center the image to scale nicely on all screens */
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        position: absolute;
-        z-index: -1;
-        filter: blur(10vw);
-        }
-    }
 }
