@@ -68,6 +68,11 @@ a:visited {
     text-decoration: none !important;
 }
 
+h1:visited{
+    color: #421e74;
+
+}
+
 .container#miegs {
     /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
     background-image: url("assets/MIEGS.png");
